@@ -10,7 +10,7 @@ FaceFitAR is an Android application that uses **CameraX** for real-time face det
 - Smooth and responsive UI  
 
 ## 🛠️ Tech Stack
-- Kotlin / Java  
+- Kotlin 
 - Android Studio  
 - CameraX  
 - Firebase (Auth & Firestore)  
