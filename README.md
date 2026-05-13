@@ -17,4 +17,8 @@ FaceFitAR is an Android application that uses **CameraX** for real-time face det
 
 ## ⚙️ Installation / Setup
 
-1. Clone the repository  
+1. Clone the repository
+
+🎥 Demo Video Watch the demo video here: 
+https://drive.google.com/file/d/1s1bYV0br-_2nK_raaG5lLElmqyCjSqUK/view?usp=drivesdk
+
